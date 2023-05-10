@@ -26,7 +26,7 @@ let point: { x: number; y: number } = {
   // title: 'center' -> Error
 };
 
-// Function
+// Function -> annotating the variable here
 const logNumber: (i: number) => void = (i: number) => {
   console.log(i);
 };
