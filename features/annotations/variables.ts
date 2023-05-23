@@ -15,8 +15,8 @@ let attendance: boolean[] = [false, true, true];
 
 // Classes
 
-class Car {}
-let car: Car = new Car();
+// class Car {}
+// let car: Car = new Car();
 
 // Object literal
 let point: { x: number; y: number } = {
